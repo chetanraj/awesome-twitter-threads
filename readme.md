@@ -4,9 +4,7 @@
 	</div>
 	<br>
 	<br>
-	<h1>
-		Awesome Twitter Threads <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-	</h1>
+	<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	<br>
 </div>
 
