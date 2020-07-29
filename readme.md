@@ -1,4 +1,14 @@
-# Awesome Twitter Threads [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<div align="center">
+	<div>
+		<img width="500" src="media/awesome-twitter-threads.svg" alt="Awesome Node.js">
+	</div>
+	<br>
+	<br>
+	<h1>
+		Awesome Twitter Threads <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</h1>
+	<br>
+</div>
 
 
 ## Contents
