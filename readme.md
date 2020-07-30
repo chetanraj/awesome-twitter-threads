@@ -17,3 +17,4 @@
 
 - [Free Web Development Resources](https://twitter.com/denicmarko/status/1277492413032992768) by [Marko Denic](https://twitter.com/denicmarko)
 - [Optimizing images in your webpage](https://twitter.com/svpino/status/1288107645908353024) by [Santiago](https://twitter.com/svpino)
+- [Optimizing JavaScript code](https://twitter.com/svpino/status/1288446622565904385) by [Santiago](https://twitter.com/svpino)
