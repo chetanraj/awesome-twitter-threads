@@ -25,3 +25,4 @@
 - [Resources For Learning React](https://twitter.com/Prathkum/status/1297814772113539072) by [Pratham](https://twitter.com/Prathkum)
 - [Javascript Projects to Practice as a Beginner](https://twitter.com/TechParida/status/1304255993816190977) by [
 Trilochan Parida](https://twitter.com/TechParida)
+- [Best Web Development Blogs](https://twitter.com/TheAnkurTyagi/status/1306637706420604928) by [AnkurGreen heartCode Life Fitness](https://twitter.com/TheAnkurTyagi)
